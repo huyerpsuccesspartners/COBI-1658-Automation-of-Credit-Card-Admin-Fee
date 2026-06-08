@@ -1,0 +1,19 @@
+{
+  "name": "insert-project-name",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "jest",
+    "scan-xml": "node ./.github/scripts/scan-xml.js"
+  },
+  "devDependencies": {
+    "@oracle/suitecloud-unit-testing": "^1.3.0",
+    "directory-tree": "^3.5.1",
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "jest": "^27.5.1",
+    "suitecloud-unit-testing-stubs": "^1.0.2"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.7.0"
+  }
+}

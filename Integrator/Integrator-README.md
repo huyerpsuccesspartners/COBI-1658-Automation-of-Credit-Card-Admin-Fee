@@ -1,0 +1,1 @@
+Store any required Celigo Integrator configurations here.
